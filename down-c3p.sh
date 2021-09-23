@@ -1,0 +1,1 @@
+wget https://github.com/C3Pool/xmrig-C3/archive/refs/tags/v6.15.0-C3.tar.gz
